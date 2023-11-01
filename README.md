@@ -1,7 +1,7 @@
 # news-site
 
 <h1>Desktop View:</h1>
-<img src="website-pc.png" alt="PC View">
+<img src="website-pc.PNG" alt="PC View">
 
 <h1>Mobile View</h1>
-<img src="website-mobile.png" alt="Mobile View">
+<img src="website-mobile.PNG" alt="Mobile View">
